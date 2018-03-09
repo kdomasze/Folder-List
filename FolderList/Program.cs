@@ -2,7 +2,7 @@
 using System.IO;
 using System.Linq;
 
-namespace ListFilesInFolder
+namespace FolderList
 {
     /// <summary>
     /// Simple commandline program to list all files and folders in a directory and output them to a file.
